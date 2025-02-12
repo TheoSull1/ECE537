@@ -69,4 +69,5 @@ Expand dataset for better generalization
 
 Author
 
+Samuel Bellaire
 Theo Sullivan
